@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "university-design-data",
+  "private_key_id": "985c20dafb1178b40c9845ab8a98bcc33c898c68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDvXtG+dSFNsWoQ\nZxFOGg2McgvJeuNrEriDP9H7ufoQUc4cSNCjXATwmRKih7vAwz1EoT72PGQ8I+Ms\nScD0VxproyFDlMiPzds+l/AQq5aTZgiHN1mImusZLSI3CJt+Fcub+AmZoEUJJZAL\nnrBFBoUDYD/L9rpnXIu/t/+z85Ba3Hb3V1551MWJ+0HvWUbD3tX9TNRn+S2N/TrO\nC3n2VTowfAMVKqv6gN75mDj+bX4eCRBMbV7OhW1C11OhgEPyZqYNohieJqjXC9f6\nNC61f/hbNNB3m1bbEJpqcRJuHE7SzwFfUBQUsKOgYmGcBzlQVGb28c0icLGroiq1\n/DUNqrmvAgMBAAECggEAAYJtfASLolbAZPSlRivZ98f2u2KISHIsVhl4IVzPg4as\nDt4VZzdwsnRbs84zzJTVAhPdwPpSwbvFpGkOLQFmptn+vckUfJ8v3h2paJ0F/orX\nniAcq3gFqt/vv3WTt13AnqEXt12S48u3Z4v+jlS3jdstC9DeLQSHRB5mXUfTH3VP\nF10MBtZjyzvNTp6oTGyfTKnQcdwmv21+/uTbB9DDw1RehjigSId7sWlvu2mBP0Ih\nevHLDqjulANQCpe+t8BcjGoQYWBujHok0LXQQlq2l4s2r7G5xnZMam+aEW9NuP1C\nN8svRYpAmkNo2RTkHkbSrzvdWWRcQkOKuUNhwj7I4QKBgQD+Mdn9rtHPF613BbQO\nfA3BROLNKSW5X6Ux0/MNc8+e/1Rf3zuIeKkl/O8C5tBns66iJvpxoxTmVVw5KQoB\nS2eL8Y7u5O/lZeRnSDiDmKBkAHFFdPkMNDZpEEX8VyetyQHdFNkTGGKMLTp8A35X\nk3y0sbxsFUZ7FdJD8bebodMNJQKBgQDxEgQMnxiGPW52D7m2ORLc0bDmJXsqzaj+\nOs6Vnv570KOqISbfZaRYZTc4cNbB5dUqe243t3zxFVdKjDfNa5sDhxSnJW8al0dY\nh1LHpsbPgywcFuT5XV3PxRi8cnnb07lQu96OwkYfwMBIgBFOYbkSH6cX0utyAtth\nj20+0X1VQwKBgQCCkRq22pg8dp4MV+qf0grCrl6NIUiWSlGxIXxj+Yu40NAHGsQa\nmlfQAnbGl8aOrdXSxpC31BvFIC1p0vGnrpK2aFKR1RiATXEfuBIHTlt8YlnMYoQW\nR693EfvQ3PetpWUGqVHDJDBibkzvLGA2HbTdn7n4DomQaaoCamN0Vo/w3QKBgD6B\nvl0Lb493JEomf6/ZEqQBFw5Fz67kjpoE44X2KOQv0BAP8oVgVIG7FNtknrq9/ky6\nnnSB9jqInw6sVtfDu/jpMJi6YxmQ+iXhSLyN6OTrjSdnZE2oQOfbojNSt3ghaN6f\nJ/D6PLaFAxaJZnNdcWBaprfNr9DrHrkoOFpedVIDAoGBAMCn1DNJ3xNJF/vKzopm\n2zPVFhqDzGHlzaGoGBFDjEFN3T9BOZO4XHyLc93VMlGYcCIhK5Qc4AndI9ODkce1\nxz4uLYdVHEml2dLfDhAOhaq1dCMalwuAoT1cjX+LaVabKPWiuU3OvZm3f18x2/CM\nAL3vDONDNrz+p74R2mJtrB3m\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-319hh@university-design-data.iam.gserviceaccount.com",
+  "client_id": "116605053706797249926",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-319hh%40university-design-data.iam.gserviceaccount.com"
+}
